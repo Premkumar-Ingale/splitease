@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>splitease</name>
 	<description>Hostel Roommate Expense Settler</description>
+	<packaging>war</packaging>
 	<url/>
 	<licenses>
 		<license/>
